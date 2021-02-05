@@ -1,0 +1,12 @@
+{
+	"Author": "Mefino",
+	"PackageName": "Mefino.Plugin",
+	"Version": "0.1.0.0",
+	"Description": "Mefino's in-game plugin for Outward.",
+	"Dependencies": 
+	[
+		"sinai-dev Outward-SideLoader"
+	],
+	"RequiresOnlineSync": false,
+	"OverrideFolderName": ""
+}
