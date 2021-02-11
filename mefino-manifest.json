@@ -3,7 +3,7 @@
   "repository": "Mefino.Plugin",
   "name": "Mefino.Plugin",
   "version": "0.1.0.0",
-  "description": "Mefino's in-game plugin for Outward",
+  "description": "Mefino's in-game plugin for Outward.",
   "download_filename": "mefino-package",
   "tags": [
 	"Utility"
