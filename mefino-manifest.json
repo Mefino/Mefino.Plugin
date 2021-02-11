@@ -1,19 +1,15 @@
 {
-  "packages": [
-    {
-      "author": "Mefino",
-      "repository": "Mefino.Plugin",
-      "name": "Mefino.Plugin",
-      "version": "0.1.0.0",
-      "description": "Mefino's in-game plugin for Outward.",
-      "download_filename": "mefino-package",
-      "tags": [
-        "Utility"
-      ],
-      "dependencies": [
-        "sinai-dev SideLoader"
-      ],
-      "require_sync": false
-    }
-  ]
+  "author": "Mefino",
+  "repository": "Mefino.Plugin",
+  "name": "Mefino.Plugin",
+  "version": "0.1.0.0",
+  "description": "Mefino's in-game plugin for Outward.",
+  "download_filename": "mefino-package",
+  "tags": [
+	"Utility"
+  ],
+  "dependencies": [
+	"sinai-dev SideLoader"
+  ],
+  "require_sync": false
 }
