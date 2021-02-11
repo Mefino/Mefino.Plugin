@@ -3,8 +3,10 @@
 	"name": "Mefino.Plugin",
 	"version": "0.1.0.0",
 	"description": "Mefino's in-game plugin for Outward.",
-	"dependencies": 
-	[
+	"tags": [
+		"Utility"
+	],
+	"dependencies": [
 		"sinai-dev Outward-SideLoader"
 	],
 	"require_sync": false,
