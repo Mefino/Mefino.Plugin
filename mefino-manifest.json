@@ -10,7 +10,7 @@
         "Utility"
       ],
       "dependencies": [
-        "sinai-dev Outward-SideLoader"
+        "sinai-dev SideLoader"
       ],
       "require_sync": false
     }
